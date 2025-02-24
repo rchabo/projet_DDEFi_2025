@@ -1,0 +1,196 @@
+##########################################################################
+#
+#	Définition des variables :
+#	Les variables sont issues de l'API d'Eurostat (organisme de statistiques officielles pour l'Union Européenne).   
+#	Ces donné et ont été importée grâce à la bibliothèque eurostat puis décrite brièvement.
+#	En tant qu'institution européenne la DG Energy se base essentiellement sur des données propres publiées sur Eurostat en vue d'établir ses 	prévisions.
+#
+##########################################################################
+
+**Variable :**  
+code_EU  
+**Source :**  
+Ministère de l'Enseignement Supérieur et de la Recherche  (MESR)  
+**Description :**  
+Liste des pays de l'Union Européenne dans lesquels l'UE pourrait investir dans le cadre d'une harmonisation des politiques de transition énergétique
+
+##########################################################################
+
+**Variable :** code_EU  
+**Source :** Eurostat  
+**Description :** Prix de l'électricité pour les foyers européens en Total-kWh TTC, avec prise en compte de la parité de pouvoir d'achat entre les pays. Les relevés bi-mensuelle ont été moyennés  
+**Last update :** 19/12/2024 23:00  
+**URL :** 
+ https://ec.europa.eu/eurostat/databrowser/view/nrg_pc_204__custom_11690203/bookmark/table?lang=en&bookmarkId=d8c29aa7-b162-4f62-b026-e026eb7babec
+
+##########################################################################
+
+**Variable :** share_renew_energy  
+**Source :** Eurostat  
+**Description :** Part de production électrique issu des énergies renouvelables - en pourcentage de la production nationale   
+**Last Update :** 21/01/2025 23:00  
+**URL :**  
+https://ec.europa.eu/eurostat/databrowser/view/NRG_IND_REN__custom_2076933/bookmark/table?lang=en&bookmarkId=c19d2992-11d6-440f-b18a-107f950d8f43
+
+##########################################################################
+
+**Variable :** GDP_per_capita  
+**Source :** Eurostat  
+**Description :** Produit intérieur brut par habitant en parité de pouvoir d'achat afin de déterminer le niveau de richesse de la population et le comparer au reste de l'UE
+**Last Update :** 21/01/2025 23:00  
+**URL :**  
+https://ec.europa.eu/eurostat/databrowser/view/NRG_IND_REN__custom_2076933/bookmark/table?lang=en&bookmarkId=c19d2992-11d6-440f-b18a-107f950d8f43
+
+##########################################################################
+
+**Variable :** HICP_inflation  
+**Source :** Eurostat  
+**Description :** Mesure de l'inflation sur la base des indices des prix à la consommation harmonisé afin de comparer la fluctaution des prix des biens et services dans les différents pays de l'UE  
+**Last Update :** 17/01/2025 11:00  
+**URL :**  
+https://ec.europa.eu/eurostat/databrowser/view/TEC00118__custom_7006313/bookmark/table?lang=en&bookmarkId=e77dcd74-2e3b-45a2-9121-553c6d328061
+
+##########################################################################
+
+**Variable :** GOV_deficit 
+**Source :** Eurostat  
+**Description :** Mesure du déficit des pays en poucentage du pays afin de mesurer la santé financière in fine la capacité à investir 
+**Last Update :** 29/10/2024 11:00  
+**URL :**  
+https://ec.europa.eu/eurostat/databrowser/view/TEC00127__custom_7006381/bookmark/table?lang=en&bookmarkId=f30ff9d0-3951-4e45-9add-a5cc5022402c
+
+##########################################################################
+
+**Variable :** NRJ_dependency   
+**Source :** Eurostat  
+**Description :** Mesure de la dépendance énergétique des pays à l'importation. Mesure le risque d'un manque de souveraineté énergétique. Indice moyenné faisant intervenir tous les secteurs de l'économie  
+**Last Update :** 19/12/2024 23:00  
+**URL :**  
+https://ec.europa.eu/eurostat/databrowser/view/NRG_IND_ID__custom_7006438/bookmark/table?lang=en&bookmarkId=05cad4a2-16a0-40af-9a92-2daa73191563
+
+##########################################################################
+
+**Variable :** CO2_emissions   
+**Source :** Eurostat  
+**Description :** Mesure dle niveau d'émissions de gaz à effet de serre en équivalent CO2 sur la totalité des secteurs de l'économie   
+**Last Update :** 09/01/2025 23:00  
+**URL :**  
+https://ec.europa.eu/eurostat/databrowser/view/SDG_13_10__custom_7006397/bookmark/table?lang=en&bookmarkId=bd680cb0-56b1-46b8-9d0a-0ba609aee133
+
+##########################################################################
+
+**Variable :** GOV_bound   
+**Source :** Eurostat  
+**Description :** Mesure la capacité des pays à pouvoir s'endetter sur le long terme. Calcul d'un taux d'intérêt moyen   
+**Last Update :** 15/01/2025 11:00  
+**URL :**  
+https://ec.europa.eu/eurostat/databrowser/view/teimf050/default/table?lang=en&category=t_irt
+
+##########################################################################
+
+**Variable :** FDI_impact   
+**Source :** Eurostat  
+**Description :** Taux de retour sur investissement pour un Investisssment Direct de l'Etranger (IDE) dans l'économie nationale d'un pays    
+**Last Update :** 15/01/2025 23:00  
+**URL :**  
+https://ec.europa.eu/eurostat/databrowser/view/bop_fdi6_ind/default/table?lang=en&category=bop_6.bop_fdi6
+
+##########################################################################
+
+**Variable :** GOV_GDP   
+**Source :** Eurostat  
+**Description :** Représente les dépenses d'investissements en pourcentage de PIB 
+**Last Update :** 29/01/2025 23:00  
+**URL :**  
+https://ec.europa.eu/eurostat/databrowser/view/nama_10_gdp/default/table?lang=en&category=na10.nama10.nama_10_ma
+
+##########################################################################
+
+**Variable :** GOV_GDP   
+**Source :** European Environment Agency (EEA)   
+**Description :** Pourcentage d'obligations vertes émises par les entreprises et les gouvernements parmi les obligations totales émises  
+**Last Update :** 11/06/2024 23:00   
+**URL :**  
+https://ec.europa.eu/eurostat/databrowser/view/sdg_13_70a/default/table?lang=en&category=sdg.sdg_13
+
+##########################################################################
+
+**Variable :** GREEN_Losses   
+**Source :** European Environment Agency (EEA)   
+**Description :** Pertes économiques estimées dues au changement climatique.Estimées en CP_EUR_HAB en euro constant 2022  
+**Last Update :** 06/11/2024 23:00   
+**URL :**  
+https://ec.europa.eu/eurostat/databrowser/view/sdg_13_40/default/table?lang=en&category=sdg.sdg_13
+
+##########################################################################
+
+**Variable :** GREEN_COP21   
+**Source :** Eurostat   
+**Description :** Contribution des pays européens au fonds de 100 milliards de dollars institué par les Accords de Paris et devant aider à lutter contre le changement climatique 
+**Last Update :** sdg_13_50  
+**URL :**  
+https://ec.europa.eu/eurostat/databrowser/view/sdg_13_50/default/table?lang=en&category=sdg.sdg_13
+
+##########################################################################
+
+**Variable :** GREEN_gross_value 
+**Source :** Eurostat   
+**Description :** Valeur ajoutée du secteur "vert" dans les biens et services en pourcentage de PIB   
+**Last Update :** 02/12/2024   
+**URL :**  
+https://ec.europa.eu/eurostat/databrowser/view/sdg_12_61/default/table?lang=en&category=sdg.sdg_09
+
+##########################################################################
+
+**Variable :** NRJ_productivity
+**Source :** Eurostat   
+**Description :** Productivité de l'énergie estimée en équivalent pétrole de 1kg et en parité de pouvoir d'achat  
+**Last Update :** 19/12/2024 23:00  
+**URL :**  
+https://ec.europa.eu/eurostat/databrowser/view/sdg_07_30/default/table?lang=en&category=sdg.sdg_07
+
+##########################################################################
+
+**Variable :** POLL_death  
+**Source :** European Environment Agency (EEA)   
+**Description :** Morts prématurées dues à une exposition aux particules fines    
+**Last Update :** 03/02/2025 23:00  
+**URL :**  
+https://ec.europa.eu/eurostat/databrowser/view/sdg_11_52/default/table?lang=en&category=sdg.sdg_11
+
+##########################################################################
+
+**Variable :** GREEN_tax  
+**Source :** Eurostat   
+**Description :** Total des taxes environnementales en pourcentage du PIB 
+**Last Update :** 28/01/2025 11:00  
+**URL :**  
+https://ec.europa.eu/eurostat/databrowser/view/env_ac_tax/default/table?lang=en&category=env.env_eta
+
+##########################################################################
+
+**Variable :** GREEN_employment  
+**Source :** Eurostat   
+**Description :** Part totale des emplois "verts" sur les emplois du secteur des biens et services   
+**Last Update :** 30/04/2024 23:00    
+**URL :**  
+https://ec.europa.eu/eurostat/databrowser/view/env_ac_egss1/default/table?lang=en&category=env.env_egs
+
+##########################################################################
+
+**Variable :** GREEN_investments  
+**Source :** Eurostat   
+**Description :** Investissemnts totaux en millions d'euros pour la lutte contre le déréglement climatique  
+**Last Update :** 25/11/2024 23:00    
+**URL :**  
+https://ec.europa.eu/eurostat/databrowser/view/env_ac_ccminv/default/table?lang=en&category=env.env_egs
+
+##########################################################################
+
+**Variable :** GREEN_enviro_protection  
+**Source :** Eurostat   
+**Description :** Investissemnts en pourcentage du PIB dans la protection de l'environnement 
+**Last Update :** 06/12/2024 23:00    
+**URL :**  
+https://ec.europa.eu/eurostat/databrowser/view/env_ac_epite1/default/table?lang=en
+
