@@ -1,6 +1,6 @@
 #README
 
-## A COMPLETER vace Specificité du projet @Nolan ##
+## A COMPLETER avce les specificités du projet @Nolan ##
 
 Projet Final – Cursus DDEFI track -Centrale Contexte : Vous allez travailler en groupe de 4-5 sur un projet fil rouge qui vous accompagnera tout au long de votre cursus. En tant que consultants fictifs, vous devrez résoudre une problématique business en choisissant un dataset finance ( cf liste API financières), une API (Par ex: voir liste d'APIs publiques) ou encore un dataset public (Ex: datasets publics). Ce projet est conçu pour vous permettre d'intégrer l'ensemble des concepts étudiés sur les pipelines de données, le Machine Learning, et l'industrialisation. L'objectif est de développer une solution complète : de la conception à l'industrialisation. Vous serez autonomes dans vos choix techniques et devrez apprendre à gérer des incertitudes et à explorer des sources de données que vous n'aurez pas nécessairement étudiées en détail en cours. Ce projet simule une situation réelle en entreprise, où il est attendu que vous preniez des initiatives, trouviez des solutions par vous-même, et fassiez preuve d'esprit critique et d'organisation.
 
