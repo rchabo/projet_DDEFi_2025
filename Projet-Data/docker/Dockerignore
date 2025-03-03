@@ -1,1 +1,8 @@
+""Ce fichier permet d'exclure du build Docker les fichiers et dossiers non nécessaires (par exemple, les caches, dossiers d'IDE, fichiers temporaires, etc.)""
 
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.vscode/
+.idea/
