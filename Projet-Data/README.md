@@ -50,7 +50,12 @@ Bonus :
 
 Rendu Final et Soutenance :
 
-Rendu Final : Chaque groupe devra rendre un dossier complet sur GitHub comprenant les éléments suivants : ● Code source : L'intégralité du code (scripts, notebooks, etc.) utilisé pour le projet, organisé de manière claire et professionnelle. ● Pipeline de données : La pipeline de traitement des données automatisée, avec une documentation claire sur son fonctionnement. ● Modèle de Machine Learning : Le modèle ML final, accompagné de sa documentation, des métriques de performance et des justifications des choix techniques. ● Documentation technique : Un README bien structuré sur GitHub, expliquant comment installer et utiliser votre solution. Cela inclut les étapes nécessaires pour exécuter le code, ainsi que des instructions sur l’utilisation des outils comme Docker, CI/CD, ou les APIs si vous les avez implémentés. ● Présentation PowerPoint : Un support visuel (slide deck) résumant la problématique, les choix techniques, les résultats obtenus, et les perspectives d’amélioration.
+Rendu Final : Chaque groupe devra rendre un dossier complet sur GitHub comprenant les éléments suivants : 
+● Code source : L'intégralité du code (scripts, notebooks, etc.) utilisé pour le projet, organisé de manière claire et professionnelle. 
+● Pipeline de données : La pipeline de traitement des données automatisée, avec une documentation claire sur son fonctionnement. 
+● Modèle de Machine Learning : Le modèle ML final, accompagné de sa documentation, des métriques de performance et des justifications des choix techniques. 
+● Documentation technique : Un README bien structuré sur GitHub, expliquant comment installer et utiliser votre solution. Cela inclut les étapes nécessaires pour exécuter le code, ainsi que des instructions sur l’utilisation des outils comme Docker, CI/CD, ou les APIs si vous les avez implémentés. 
+● Présentation PowerPoint : Un support visuel (slide deck) résumant la problématique, les choix techniques, les résultats obtenus, et les perspectives d’amélioration.
 
 Soutenance : La soutenance finale se déroulera devant les intervenants. Chaque groupe disposera de 15 minutes pour présenter son projet, suivies de quelques minutes de questions. Exemple possible de contenu de la présentation : 
 
