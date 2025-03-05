@@ -1,6 +1,14 @@
 #README
 
-Projet Final – Cursus DDEFI track -Centrale Contexte : Vous allez travailler en groupe de 4-5 sur un projet fil rouge qui vous accompagnera tout au long de votre cursus. En tant que consultants fictifs, vous devrez résoudre une problématique business en choisissant un dataset finance ( cf liste API financières), une API (Par ex: voir liste d'APIs publiques) ou encore un dataset public (Ex: datasets publics). Ce projet est conçu pour vous permettre d'intégrer l'ensemble des concepts étudiés sur les pipelines de données, le Machine Learning, et l'industrialisation. L'objectif est de développer une solution complète : de la conception à l'industrialisation. Vous serez autonomes dans vos choix techniques et devrez apprendre à gérer des incertitudes et à explorer des sources de données que vous n'aurez pas nécessairement étudiées en détail en cours. Ce projet simule une situation réelle en entreprise, où il est attendu que vous preniez des initiatives, trouviez des solutions par vous-même, et fassiez preuve d'esprit critique et d'organisation.
+# Projet Final – Cursus DDEFI #  
+
+* Mots-cLés :
+ - Politique publiques
+ - Investissement
+ - Transition énergétique
+ - 
+
+Contexte : Vous allez travailler en groupe de 4-5 sur un projet fil rouge qui vous accompagnera tout au long de votre cursus. En tant que consultants fictifs, vous devrez résoudre une problématique business en choisissant un dataset finance ( cf liste API financières), une API (Par ex: voir liste d'APIs publiques) ou encore un dataset public (Ex: datasets publics). Ce projet est conçu pour vous permettre d'intégrer l'ensemble des concepts étudiés sur les pipelines de données, le Machine Learning, et l'industrialisation. L'objectif est de développer une solution complète : de la conception à l'industrialisation. Vous serez autonomes dans vos choix techniques et devrez apprendre à gérer des incertitudes et à explorer des sources de données que vous n'aurez pas nécessairement étudiées en détail en cours. Ce projet simule une situation réelle en entreprise, où il est attendu que vous preniez des initiatives, trouviez des solutions par vous-même, et fassiez preuve d'esprit critique et d'organisation.
 
 Mission : ● Définir une problématique business basée sur un dataset ou une API de votre choix. ● Explorer et analyser les données pour identifier des insights et préparer la phase de modélisation. ● Créer un pipeline de données automatisées, capable de traiter et transformer les données de manière continue. ● Développer un modèle de Machine Learning pertinent et justifier vos choix (prétraitement, algorithmes, etc.). ● Industrialiser la solution pour rendre le projet réutilisable et maintenable, avec une documentation détaillée et un code hébergé sur GitHub.
 
@@ -10,7 +18,9 @@ Définir une problématique business : Choisissez un dataset ou une API et ident
 Exploration et analyse des données : Il est crucial de bien comprendre les données avec lesquelles vous travaillez. Vous devrez extraire des tendances, réaliser des visualisations pertinentes, et identifier les points clés à traiter lors de la modélisation.
 Construire une pipeline de données : Développez une pipeline automatisée qui s'occupe de l'acquisition, du nettoyage, de la transformation, et de la mise à disposition des données pour le modèle. Cela inclut l'intégration de processus ETL (Extract, Transform, Load).
 Modèle de Machine Learning : Choisissez et entraînez un modèle de ML en fonction de votre problématique. Justifiez vos choix techniques et mettez en œuvre les bonnes pratiques de validation (cross-validation, métriques adaptées, etc.).
-Industrialisation : Le code doit être structuré, modulaire, et prêt à être utilisé dans un environnement professionnel. Nous attendons une documentation claire et l'utilisation de bonnes pratiques (versionnage du code, gestion des dépendances, etc.). Vous êtes encouragés à aller plus loin avec : ○ CI/CD (Intégration et Déploiement Continu) : Automatiser les tests et les déploiements de votre code. ○ Containerisation avec Docker : Containeriser votre application pour garantir son portabilité. ○ Déploiement Cloud : Mettre en place une infrastructure sur un cloud public (AWS, GCP) pour rendre votre solution accessible. ○ API d'accès au modèle : Exposez votre modèle via une API pour rendre ses prédictions accessibles en ligne.
+Industrialisation : Le code doit être structuré, modulaire, et prêt à être utilisé dans un environnement professionnel. Nous attendons une documentation claire et l'utilisation de bonnes pratiques (versionnage du code, gestion des dépendances, etc.). Vous êtes encouragés à aller plus loin avec : ○ CI/CD (Intégration et Déploiement Continu) : Automatiser les tests et les déploiements de votre code. ○ Containerisation avec Docker : Containeriser votre application pour garantir son portabilité. ○ Déploiement Cloud : Mettre en place une infrastructure sur un cloud public (AWS, GCP) pour rendre votre solution accessible. ○ API d'accès au modèle : Exposez votre modèle via une API pour rendre ses prédictions accessibles en ligne.  
+
+
 Critères d'Évaluation :
 
 Problématique business : Qualité de la définition, pertinence des données, et utilité pour l'entreprise fictive.
