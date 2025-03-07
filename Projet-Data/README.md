@@ -2,6 +2,8 @@
 
 # Projet Final – Cursus DDEFI #  
 
+Lien GitHub : https://github.com/rchabo/projet_DDEFi_2025/tree/0743205723825e5f912a8524400b2ff35f9bccce/Projet-Data
+
 Mots-cLés :
  - Politiques publiques
  - Investissement
